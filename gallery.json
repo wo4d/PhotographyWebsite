@@ -2,9 +2,9 @@
   "photos": [
     {
       "id": "photo-1788360849367-7114",
-      "title": "",
+      "title": "Pookie",
       "caption": "",
-      "featured": false,
+      "featured": true,
       "width": 720,
       "height": 1140
     }
