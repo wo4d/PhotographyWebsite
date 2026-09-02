@@ -1780,7 +1780,7 @@
       "id": "photo-237",
       "title": "",
       "caption": "",
-      "featured": false,
+      "featured": true,
       "width": 1333,
       "height": 2000
     },
@@ -1788,7 +1788,7 @@
       "id": "photo-1788358470583-dqcz",
       "title": "",
       "caption": "",
-      "featured": false,
+      "featured": true,
       "width": 474,
       "height": 471
     },
@@ -1796,7 +1796,7 @@
       "id": "photo-1788358623950-9ryv",
       "title": "",
       "caption": "",
-      "featured": false,
+      "featured": true,
       "width": 923,
       "height": 2000
     },
@@ -1804,7 +1804,7 @@
       "id": "photo-1788358628557-xwpa",
       "title": "",
       "caption": "",
-      "featured": false,
+      "featured": true,
       "width": 923,
       "height": 2000
     },
@@ -1812,7 +1812,7 @@
       "id": "photo-1788358650919-vceo",
       "title": "",
       "caption": "",
-      "featured": false,
+      "featured": true,
       "width": 736,
       "height": 736
     },
