@@ -33,6 +33,14 @@
       "height": 2000
     },
     {
+      "id": "photo-1788372316144-yalc",
+      "title": "",
+      "caption": "",
+      "featured": false,
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "id": "photo-1788372290794-o8zk",
       "title": "",
       "caption": "",
@@ -41,12 +49,12 @@
       "height": 960
     },
     {
-      "id": "photo-1788372316144-yalc",
+      "id": "photo-1788372349404-qols",
       "title": "",
       "caption": "",
       "featured": false,
-      "width": 1200,
-      "height": 1600
+      "width": 720,
+      "height": 594
     }
   ]
 }
